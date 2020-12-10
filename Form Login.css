@@ -43,6 +43,7 @@ li {
 .header {
     background-color: white;
     height: 119px;
+    width: 1440px;
     font-size: 25px;
     display: flex;
     justify-content: space-between;
