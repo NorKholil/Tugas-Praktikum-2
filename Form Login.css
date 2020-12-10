@@ -79,7 +79,6 @@ li {
 }
 
 .main {
-    /* background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%), url(img/keindahan.jpg); */
     width: 1440px;
     height: 750px;
     background-size: cover;
@@ -93,6 +92,7 @@ li {
 h3 {
     font-size: 60px;
     color: black;
+    font-family: 'Times New Roman';
 }
 
 h4 {

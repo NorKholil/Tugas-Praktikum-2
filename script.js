@@ -17,10 +17,12 @@ button.addEventListener("click", function() {
     if (username == "pweb_C" && password == "123123") {
         success.classList.add("show");
         invalid.classList.remove("show");
-        document.body.style.background = "green";
+        document.body.style.background = "#008000";
 
     } else {
         invalid.classList.add("show");
+        document.body.style.background = "#FFFFFF";
+
     }
 });
 
